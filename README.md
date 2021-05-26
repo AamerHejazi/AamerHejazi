@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AamerHejazi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Springboot
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web project using spring framework...
 - 📫 How to reach me https://www.linkedin.com/in/aamer-hejazi/
 
 <!---
